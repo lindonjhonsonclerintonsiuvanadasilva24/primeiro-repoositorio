@@ -32,9 +32,13 @@
 				<li class="itens">Profissionais Qualificados</li>
 			</ul>
 			<img src="beneficios.jpg" class="imagembeneficios">
-			img scr"/home/Aluno/Área de Trabalho/fusquinha de jose da siuva pereira"
+			
+			<body>
 
+				<h1>A GENTE VENDE ATÉ PRO LUCIANO HULK<h1>
+
+				    <img src="file:///tmp/guest-dsinmy/%C3%81rea%20de%20Trabalho/del-rey-1984-antes-depois-reforma-lata-velha%20(2).webp
+"
         </div>
 	</body>
 </html>
-
