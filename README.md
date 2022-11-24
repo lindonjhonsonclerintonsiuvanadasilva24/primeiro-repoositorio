@@ -32,6 +32,8 @@
 				<li class="itens">Profissionais Qualificados</li>
 			</ul>
 			<img src="beneficios.jpg" class="imagembeneficios">
+			img scr"/home/Aluno/Área de Trabalho/fusquinha de jose da siuva pereira"
+
         </div>
 	</body>
 </html>
