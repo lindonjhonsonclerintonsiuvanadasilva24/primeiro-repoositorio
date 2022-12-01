@@ -39,6 +39,10 @@
 
 				    <img src="file:///tmp/guest-dsinmy/%C3%81rea%20de%20Trabalho/del-rey-1984-antes-depois-reforma-lata-velha%20(2).webp
 "
-        </div>
+    </div>
+     <style>
+     	body{
+     		: purple;
+      </div>
 	</body>
 </html>
